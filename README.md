@@ -54,4 +54,4 @@ Markdown te permite poner [enlaces a una página web](http://github.com/milq/lms
 
 En Markdown también se pueden poner imágenes:
 
-![Imagen de Rascacielos](http://assets.barcroftmedia.com.s3-website-eu-west-1.amazonaws.com/assets/images/recent-images-11.jpg)
+![Imagen de muñeco](http://feelgrafix.com/data/images/images-11.jpg)
