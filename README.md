@@ -54,7 +54,7 @@ Markdown te permite poner [enlaces a una página web](http://github.com/milq/lms
 
 En Markdown también se pueden poner imágenes:
 
-![Imagen de universo](http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/11/virtual_milky_way/16487036-1-eng-GB/Virtual_Milky_Way_node_full_image_2.png)
+![Imagen de atardecer](http://wowslider.com/sliders/demo-30/data1/images/tree.jpg)
 
 
 |  Personaje   |  Posición    |  Pasiva     |
