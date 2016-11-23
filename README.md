@@ -67,4 +67,5 @@ También te permite <i>usar <b>código</b> HTML</i>.
 
 Se pueden poner citas:
 
-> En un lugar de la Mancha, comen huevo y no se manchan
+> En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín flaco y galgo corredor.
+
