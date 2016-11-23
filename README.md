@@ -50,4 +50,4 @@ También es posible crear listas anidadas:
   1. ADC
   2. Poca movilidad
   
-Markdown te permite poner [enlaces a una página web(http://github.com/milq/lmsgi), incluso sólo poniendo la URL: http://google.com] 
+Markdown te permite poner enlaces a una página web(http://github.com/milq/lmsgi), incluso sólo poniendo la URL: http://google.com
