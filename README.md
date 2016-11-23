@@ -51,3 +51,7 @@ También es posible crear listas anidadas:
   2. Poca movilidad
   
 Markdown te permite poner [enlaces a una página web](http://github.com/milq/lmsgi), incluso sólo poniendo la URL: http://google.com
+
+En Markdown también se pueden poner imágenes:
+
+![Imagen de Rascacielos](http://assets.barcroftmedia.com.s3-website-eu-west-1.amazonaws.com/assets/images/recent-images-11.jpg)
