@@ -64,3 +64,7 @@ En Markdown también se pueden poner imágenes:
 |  Garen       |  Top         |  Ganar vida |
 
 También te permite <i>usar <b>código</b> HTML</i>.
+
+Se pueden poner citas:
+
+> En un lugar de la Mancha, comen huevo y no se manchan
